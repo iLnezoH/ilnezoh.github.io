@@ -104,4 +104,7 @@ theme: academic
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:iLnezoH/iLnezoH.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: gh-pages
+  message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
