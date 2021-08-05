@@ -1,0 +1,21 @@
+---
+title: overview
+toc: false
+is_index: true
+---
+
+# Biography
+Albert Einstein was born in Ulm, in the Kingdom of Württemberg in the German Empire, on 14 March 1879.[5] His parents were Hermann Einstein, a salesman and engineer, and Pauline Koch. In 1880, the family moved to Munich, where Einstein's father and his uncle Jakob founded Elektrotechnische Fabrik J. Einstein & Cie, a company that manufactured electrical equipment based on direct current.[5]
+
+# Publictions
+- Einstein, Albert (1901) [Manuscript received: 16 December 1900]. Written at Zurich, Switzerland. "Folgerungen aus den Capillaritätserscheinungen" [Conclusions Drawn from the Phenomena of Capillarity]. Annalen der Physik (in German). Hoboken, New Jersey (published 14 March 2006). 309 (3): 513–523. Bibcode:1901AnP...309..513E. doi:10.1002/andp.19013090306.
+- Einstein, Albert (1905a) [Manuscript received: 18 March 1905]. Written at Berne, Switzerland. "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt" [On a Heuristic Viewpoint Concerning the Production and Transformation of Light] (PDF). Annalen der Physik (in German). Hoboken, New Jersey (published 10 March 2006). 322 (6): 132–148. Bibcode:1905AnP...322..132E. doi:10.1002/andp.19053220607.
+- Einstein, Albert (1905b) [Completed 30 April and submitted 20 July 1905]. Written at Berne, Switzerland, published by Wyss Buchdruckerei. Eine neue Bestimmung der Moleküldimensionen [A new determination of molecular dimensions] (PDF). Dissertationen Universität Zürich (PhD Thesis) (in German). Zurich, Switzerland: ETH Zürich (published 2008). doi:10.3929/ethz-a-000565688 – via ETH Bibliothek.
+- Einstein, Albert (1905c) [Manuscript received: 11 May 1905]. Written at Berne, Switzerland. "Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen" [On the Motion – Required by the Molecular Kinetic Theory of Heat – of Small Particles Suspended in a Stationary Liquid]. Annalen der Physik (in German). Hoboken, New Jersey (published 10 March 2006). 322 (8): 549–560. Bibcode:1905AnP...322..549E. doi:10.1002/andp.19053220806. hdl:10915/2785.
+- Eunstein, Albert (1905d) [Manuscript received: 30 June 1905]. Written at Berne, Switzerland. "Zur Elektrodynamik bewegter Körper" [On the Electrodynamics of Moving Bodies]. Annalen der Physik (Submitted manuscript) (in German). Hoboken, New Jersey (published 10 March 2006). 322 (10): 891–921. Bibcode:1905AnP...322..891E. doi:10.1002/andp.19053221004. hdl:10915/2786.
+- Einstein, Albert (1905e) [Manuscript received: 27 September 1905]. Written at Berne, Switzerland. "Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?" [Does the Inertia of a Body Depend Upon Its Energy Content?]. Annalen der Physik (in German). Hoboken, New Jersey (published 10 March 2006). 323 (13): 639–641. Bibcode:1905AnP...323..639E. doi:10.1002/andp.19053231314.
+- Einstein, Albert (1915) [Published 25 November 1915]. "Die Feldgleichungen der Gravitation" [The Field Equations of Gravitation] (Online page images). Sitzungsberichte 1915 (in German). Berlin, Germany: Königlich Preussische Akademie der Wissenschaften: 844–847 – via ECHO, Cultural Heritage Online, Max Planck Institute for the History of Science.
+- Einstein, Albert (22 June 1916). "Näherungsweise Integration der Feldgleichungen der Gravitation" [Approximate integration of the field equations of gravitation]. Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften Berlin: 688–696. Bibcode:1916SPAW.......688E. Retrieved 14 November 2020.
+- Einstein, Albert (1917a). "Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie" [Cosmological Considerations in the General Theory of Relativity]. Sitzungsberichte 1917 (in German). Königlich Preussische Akademie der Wissenschaften, Berlin.
+- Einstein, Albert (1917b). "Zur Quantentheorie der Strahlung" [On the Quantum Mechanics of Radiation]. Physikalische Zeitschrift (in German). 18: 121–128. Bibcode:1917PhyZ...18..121E.
+- Einstein, Albert (31 January 1918). "Über Gravitationswellen" [About gravitational waves]. Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften Berlin: 154–167. Bibcode:1918SPAW.......154E. Retrieved 14 November 2020.
